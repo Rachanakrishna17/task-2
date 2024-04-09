@@ -1,4 +1,4 @@
-/* Reset styles */
+
 body, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
@@ -40,7 +40,7 @@ footer {
     margin-top: 20px;
 }
 
-/* Media queries for responsiveness */
+
 @media screen and (max-width: 768px) {
     nav ul li {
         display: block;
